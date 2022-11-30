@@ -1,0 +1,5 @@
+Shirt=10
+Pant=5
+sum(Shirt,Pant):-
+	S is X-Y,
+     write(S).

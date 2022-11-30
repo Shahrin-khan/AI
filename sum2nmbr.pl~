@@ -1,0 +1,11 @@
+sum(X,Y):-
+
+    S is X+Y,
+
+    write(S).
+
+sub(X,Y):-
+
+    S is X-Y,
+
+    write(S).
